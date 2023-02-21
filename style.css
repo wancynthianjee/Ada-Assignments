@@ -1,0 +1,17 @@
+
+#img{
+    border-image-repeat: no repeat;
+    image-rendering: auto;
+     image-float: left;
+     margin-right: 50%;
+}
+.form{
+    float: right
+    clear:right;
+    margin-right:content
+    
+}
+table, th, td  {
+    padding: inline 4px 6px 4px;
+}
+<br><p><a href="table.html">table</a></p></br>
